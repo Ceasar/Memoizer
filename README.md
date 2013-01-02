@@ -1,4 +1,4 @@
 memoizer
 ========
 
-Modular python memoizer.
+Simple memoizer. Uses perfect recall strategy.
